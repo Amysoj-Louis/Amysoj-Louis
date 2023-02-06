@@ -27,5 +27,8 @@
 </a>
 <br></br>
 <br></br>
+My other Personal Projects:
+  
+  -[DropQr API](https://dropqr.vercel.app/)
 
 <p>Hope u have a good Day 😃</p>
