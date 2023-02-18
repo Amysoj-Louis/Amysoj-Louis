@@ -15,8 +15,8 @@
 <a href="https://play.google.com/store/apps/details?id=com.fusion.drink">
   <img  alt="First App" height="150px" width="150px" src="https://i.ibb.co/g7MsXQK/ic-launcher.jpg" />
 </a>
-<a href="https://theclassroommanager.vercel.app/">
-  <img  alt="First Website" height="150px" width="150px" src="https://i.ibb.co/Gsn8wr2/ic-launcher.jpg" />
+<a href="https://classm.in/">
+  <img  alt="First Website" height="150px" width="150px" src="https://i.ibb.co/ByLjQh0/ic-launcher.jpg" />
 </a>
 <h4>Collaborators:</h4>
 <a href="https://github.com/exson6969/">
