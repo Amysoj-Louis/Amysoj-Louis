@@ -2,9 +2,6 @@
 <a href="https://www.instagram.com/i.amtheoneyouthink">
   <img  alt="i.amtheoneyouthink | Instagram" height="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/louisjo26614437">
-  <img  alt="louisjo26614437 | Twitter" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://stackoverflow.com/users/20652486/amysoj-louis">
   <img  alt="amysoj-louis| StackOverflow " height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
