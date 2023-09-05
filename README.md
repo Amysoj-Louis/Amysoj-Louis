@@ -7,7 +7,7 @@
 </a>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAmysoj-Louis"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FAmysoj-Louis&countColor=%23263759" /></a>
 <br></br>
-<p>I'm <a href="https://amysoj-louis.github.io/#/">Amysoj J A Louis Joseph</a>, a self-taught developer from Chennai. I have a passion for creating interactive front-ends, web crawlers, and APIs, and enjoy experimenting with different software and programming languages. I am currently focused on learning HTML, CSS and JS and plan on exploring React in the near future.</p>
+<p>I'm Amysoj J A Louis Joseph, a self-taught developer from Chennai. I have a passion for creating interactive front-ends, web crawlers, and APIs, and enjoy experimenting with different software and programming languages. I am currently focused on learning HTML, CSS and JS and plan on exploring React in the near future.</p>
 <h3>My First Projects:</h3>
 <a href="https://play.google.com/store/apps/details?id=com.fusion.drink">
   <img  alt="First App" height="150px" width="150px" src="https://i.ibb.co/g7MsXQK/ic-launcher.jpg" />
