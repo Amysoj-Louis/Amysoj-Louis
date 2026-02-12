@@ -1,0 +1,56 @@
+{
+  "identity": {
+    "name": "Louis Joseph",
+    "designation": "Architect of Intelligence // Designer of Intent",
+    "philosophy": "Building it better because the 'standard way' wasn't good enough."
+  },
+  "logic_gates": [
+    {
+      "standard": "Use a pre-built library",
+      "louis_way": "Build a Domain-Specific Language (DSL) to generate it."
+    },
+    {
+      "standard": "Follow the documentation",
+      "louis_way": "Override the protocol (Spotify-MultiJam style)."
+    },
+    {
+      "standard": "Static E-learning",
+      "louis_way": "Adaptive Neural Learning via LaTeX/RAG."
+    }
+  ],
+  "core_nodes": [
+    {
+      "id": "buzzchat",
+      "title": "BuzzChat",
+      "metric": "Conversational AI",
+      "url": "http://buzzchat.in/",
+      "brief": "Rethinking human-AI interaction patterns."
+    },
+    {
+      "id": "marketmetrics",
+      "title": "MarketMetrics",
+      "metric": "Market Intelligence",
+      "url": "https://marketmetrics.ai/",
+      "brief": "AI-driven signal extraction from market volatility."
+    },
+    {
+      "id": "noetic",
+      "title": "Noetic Laboratories",
+      "metric": "Lead Frontend",
+      "url": "https://noeticlaboratories.com/",
+      "brief": "Architecting high-fidelity interfaces for creative tech research."
+    }
+  ],
+  "experimental_research": [
+    {
+      "project": "Gen UI via DSL",
+      "status": "Infiltrating",
+      "note": "Automating design intent into functional interfaces."
+    },
+    {
+      "project": "Telebook",
+      "status": "Processing",
+      "note": "Converting academic syllabi into adaptive LaTeX engines."
+    }
+  ]
+}
