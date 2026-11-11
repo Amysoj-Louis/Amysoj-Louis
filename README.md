@@ -1,40 +1,38 @@
-# LOUIS JOSEPH — INTERFACE ARCHITECT
+# Louis Joseph
 
-Standard tools produce standard results. I engineer custom high-fidelity systems at the intersection of **Generative AI** and **Frontend Architecture**—building the tools I wish existed.
+Freelance developer building web apps and AI tools. I work frontend-first (Next.js, React, Flutter) with Python and Node backends, and I like turning rough ideas into products people can actually use. Based in India.
 
----
+## What I'm working on
 
-### 🧪 CURRENT R&D: THE GENERATIVE LAYER
-*Moving from manual pixels to intent-based rendering.*
+- **Gen UI with a DSL**: a small domain-specific language that turns plain-language descriptions into working, production-ready interfaces, so less time goes on the design-to-code handoff.
+- **Telebook**: an adaptive learning engine that breaks a syllabus into a personalised LaTeX curriculum and adjusts it as the learner's performance changes.
+- **Compliance tooling**: ERP work on structured regulatory compliance tracking and operational oversight.
 
-- **Gen UI via DSL**: Abstracting UI development into a custom Domain-Specific Language. I’m building a way to transform natural language intent into functional, production-ready interfaces—bypassing the traditional design-to-code bottleneck.
-- **Neural Pedagogy (Telebook)**: Developing an adaptive learning engine that deconstructs static syllabi into personalized, user-tuned LaTeX curriculum. It doesn't just display content; it evolves with the learner's performance.
-- **Adaptive Compliance**: Reengineering ERP systems for precision tracking. Building a platform for automated, structured regulatory compliance and operational oversight.
+## Work
 
-### 🏗️ PRODUCTION SYSTEMS
-*Deployed platforms and core collaborations.*
+| Project | What it is |
+| --- | --- |
+| [Noetic Laboratories](https://noeticlaboratories.com/) | Frontend Lead. Building the frontend for a studio focused on AI research and creative technology. |
+| [MarketMetrics](https://marketmetrics.ai/) | AI-driven market insights and financial intelligence. |
+| [BuzzChat](http://buzzchat.in/) | Conversational AI product. |
 
-- **MarketMetrics** • [marketmetrics.ai](https://marketmetrics.ai/)  
-  *Neural Signal Extraction.* Deciphering market volatility through AI-driven insights and financial intelligence.
-- **BuzzChat** • [buzzchat.in](http://buzzchat.in/)  
-  *Conversational Intelligence.* Synthesizing complex AI logic into intuitive, human-centric interaction patterns.
-- **Noetic Laboratories** • [noeticlaboratories.com](https://noeticlaboratories.com/)  
-  *Frontend Lead.* Engineering the digital infrastructure for a studio focused on next-gen AI research and creative technology.
+## Open source
 
-### 🛠️ OVERRIDES & UTILITIES
-*Building better versions of what already exists.*
+- [AI PDF Question Answering](https://github.com/Amysoj-Louis/AI-Pdf-Question-Answering): PDF OCR and question answering with Gemini 1.5 Flash and Tesseract, including multiple-choice and open-ended questions.
+- [Spotify MultiJam](https://github.com/Amysoj-Louis/Spotify-MultiJam): control playback on several Spotify accounts and Connect devices at once through the Web API.
+- [Tickertape Screener](https://github.com/Amysoj-Louis/Tickertape-Screener-unofficial): unofficial Python client for pulling data from the Tickertape screener.
+- [TradingView Watchlist API](https://github.com/Amysoj-Louis/TradingView-Watchlist-API-Manipulation): bulk sync and edit of TradingView watchlists.
+- [Convex Hull API](https://github.com/Amysoj-Louis/Convex-Hull-Algo-API): Flask API that computes the convex hull of a set of GPS coordinates.
+- [Py Media Editor](https://github.com/Amysoj-Louis/Py-Media-Editor): batch audio and video editing with yt-dlp and Pydub.
 
-- **[Spotify MultiJam](https://github.com/Amysoj-Louis/Spotify-MultiJam)**: Overriding standard session limits for concurrent remote playback control.
-- **[AI PDF Intelligence](https://github.com/Amysoj-Louis/AI-Pdf-Question-Answering)**: Local RAG implementation for high-precision document parsing and Q&A.
-- **[Tickertape Automation](https://github.com/Amysoj-Louis/Tickertape-Screener-unofficial)**: Custom data retrieval engine for financial screening.
+## Stack
 
----
+| | |
+| --- | --- |
+| Frontend | Next.js (TypeScript), React, Flutter, shadcn/ui, Magic UI |
+| Backend | Python (FastAPI, Flask), Node.js, Supabase, Firebase |
+| AI | Gemini, OCR (Tesseract), scikit-learn, LLM pipelines |
 
-### STACK OVERRIDE
-**Frontend:** Next.js (TS), React, Flutter, Shadcn UI, Magic UI  
-**Backend:** Python (FastAPI), Node.js, Gemini AI, Supabase, Firebase  
+## Get in touch
 
----
-
-### LOG_IN
-[Email](mailto:louisjoseph1104@gmail.com) • [LinkedIn](https://linkedin.com/in/amysoj-louis) • [Studio](https://amysoj-louis.github.io)
+[Email](mailto:louisjoseph1104@gmail.com) · [LinkedIn](https://linkedin.com/in/amysoj-louis) · [Portfolio](https://amysoj-louis.github.io)
